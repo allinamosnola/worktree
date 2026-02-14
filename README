@@ -1,9 +1,12 @@
 * HOW-TO para Git Worktree
 
-1. Crear el repositorio
+1. Crear el repositorio (main)
 2. Hacer el primer commit con un archivo. 
 3. Hacer push
-4. Crear una nueva rama
+4. Crear una nueva rama (A1)
 5. Cambiar a la nueva rama
 6. Crear nuevo archivo y modificar el original
 7. Hacer commit y push
+8. Hacer pull-request de A1 -> main
+9. Crear una nueva rama (A2)
+10. Modificar archivos en A2
