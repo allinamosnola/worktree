@@ -1,0 +1,9 @@
+* HOW-TO para Git Worktree
+
+1. Crear el repositorio
+2. Hacer el primer commit con un archivo. 
+3. Hacer push
+4. Crear una nueva rama
+5. Cambiar a la nueva rama
+6. Crear nuevo archivo y modificar el original
+7. Hacer commit y push
