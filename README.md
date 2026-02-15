@@ -11,3 +11,8 @@
 9. Crear una nueva rama (A2)
 10. Modificar archivos en A2
 11. Commit de los cambios
+12. Crear el worktree
+```bash
+git worktree add ../[nombre-del-worktree] [rama]
+```
+13. Cambiar al directorio del nuevo worktree
